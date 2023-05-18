@@ -13,7 +13,7 @@
 
 <h3> A little more about me ...  </h3>
 
-```
+```python
 roberto = { 
 	"code": ["Python","SQL","Scala","C++","Java","Bash"], 
 	"data": ["PostgreSQL", "Oracle", "SQL Server", "Mongo DB", "MySQL", "Redis", "Kafka", "Hadoop"], 
