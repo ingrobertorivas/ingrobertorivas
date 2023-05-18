@@ -85,9 +85,9 @@ roberto = {
 ***
 
 ####  Let's get connected
-<a href="https://linkedin.com/in/ingrobertorivas" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="ingrobertorivas" />
+<a href="https://linkedin.com/in/ingrobertorivas" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="ingrobertorivas" />
 <a href="mailto:ing.roberto.rivas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="ingrobertorivas" />
-<a href="https://www.hackerrank.com/ingrobertorivas" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="ingrobertorivas" />  
+<a href="https://www.hackerrank.com/ingrobertorivas" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="ingrobertorivas" />  
 
 ***
 
