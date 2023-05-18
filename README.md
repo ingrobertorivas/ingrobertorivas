@@ -1,7 +1,7 @@
 
 <h2 align="lefth">Hello World! I'm Roberto</h2>  
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/headerbw-iRR.png" alt="Roberto Rivas - Computer Engineer" />
+<img align="center" src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/header-iRR.png" alt="Roberto Rivas - Computer Engineer" />
 </p>
   
 <h3 align="center">I AM PASSIONATE ABOUT DATA</h3>
