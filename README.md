@@ -13,16 +13,18 @@
 
 <h3> A little more about me ...  </h3>
 
-```python
+```
 roberto = { 
 	"code": ["Python","SQL","Scala","C++","Java","Bash"], 
 	"data": ["PostgreSQL", "Oracle", "SQL Server", "Mongo DB", "MySQL", "Redis", "Kafka", "Hadoop"], 
-	"devops": ["Docker","Jenkins",'Git'], 
 	"ml": ["Pandas","Seaborn","Scikit Learn","Tensor Flow"], 	
+	"devops": ["Docker","Jenkins",'Git'], 
 	"cloud": { 
 		"AWS": ["EC2","RDS","S3","Lambda","Redshift","Glue"], 
 		"GCP": ["Cloud Storage","Cloud Functions","Big Query","Vertex AI","Composer"]
-		} 
+		},
+	"managment": ["Scrum","Kanban","PM","Jira","MS Project"]	
+	 }
 ```
 
 
