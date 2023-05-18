@@ -7,26 +7,6 @@
 <h3 align="center">I AM PASSIONATE ABOUT DATA</h3>
 <h3 align="center"> Data Engineering &nbsp;  |  &nbsp; Machine Learning Operations </h3>  
 
-
-
-***
-
-#### A little more about me ...  
-
-```python
-roberto = { 
-	"code": ["Python","SQL","Scala","C++","Java","Bash"],
-	"data": ["PostgreSQL", "Oracle", "SQL Server", "Mongo DB", "MySQL", "Redis", "Kafka", "Hadoop"],
-	"ml": ["Pandas","Seaborn","Scikit Learn","Tensor Flow"],
-	"devops": ["Docker","Jenkins",'Git'],
-	"cloud": {
-		"AWS": ["EC2","RDS","S3","Lambda","Redshift","Glue"],
-		"GCP": ["Cloud Storage","Cloud Functions","Big Query","Vertex AI","Composer"]
-	},
-	"managment": ["Scrum","Kanban","Project Managment","Jira","MS Project"]
-}
-```
-
 ***
 
 #### Professional Experience
