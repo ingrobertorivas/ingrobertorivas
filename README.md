@@ -73,3 +73,8 @@ My toolbox
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingrobertorivas&label=Profile%20views&color=0e75b6&style=flat" alt="ingrobertorivas" /> </p>  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingrobertorivas&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ingrobertorivas" /></p>    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingrobertorivas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ingrobertorivas" /></p>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ingrobertorivas" src="https://streak-stats.demolab.com/?user=ingrobertorivas&theme=monokai-metallian&hide_border=true"/>
+    </a>
+
