@@ -64,7 +64,7 @@ roberto = {
 ![ScikitLearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Spark](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black)
 
 #### Previously worked with:
 ![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)
@@ -74,7 +74,6 @@ roberto = {
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)
