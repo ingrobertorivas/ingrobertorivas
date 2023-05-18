@@ -32,18 +32,18 @@ roberto = {
 
 <p>
 <h4>Professional Experience</h4>
-MLOps Lead at <a href="https://www.banorte.com/">Banorte</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-banorte.png" width="25"/><br></br> 
-Data Chapter Lead at <a href="https://www.kavak.com/">Kavak</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-kavak.png" width="25"/><br></br>
-Software Architect at <a href="https://www.nielsen.com/">Nielsen</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-nielsen.jpg" width="25"/><br></br>
-Software Engineer at <a href="https://www.softtek.com/">Softtek</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-softtek.jpg" width="25"/><br></br>
-</p>
+MLOps Lead at <a href="https://www.banorte.com/">Banorte</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-banorte.png" width="25"/>
+Data Chapter Lead at <a href="https://www.kavak.com/">Kavak</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-kavak.png" width="25"/>
+Software Architect at <a href="https://www.nielsen.com/">Nielsen</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-nielsen.jpg" width="25"/>
+Software Engineer at <a href="https://www.softtek.com/">Softtek</a>&nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-softtek.jpg" width="25"/>
+
 
 <p>
 <h4>Academic background</h4>
-Data Science and Business Analytics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a> &nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-uta.png" width="25"/><br></br>
-Master of Administration at <a href="https://lasalle.mx/">Universidad La Salle</a>&nbsp; <img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-ulsa.png" width="25"/><br></br>
-Computer Engineering at <a href="https://www.unam.mx">Universidad Nacional Autónoma de México</a> &nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-unam.png" width="25"/><br></br>
-</p>
+Data Science and Business Analytics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a> &nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-uta.png" width="25"/>
+Master of Administration at <a href="https://lasalle.mx/">Universidad La Salle</a>&nbsp; <img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-ulsa.png" width="25"/>
+Computer Engineering at <a href="https://www.unam.mx">Universidad Nacional Autónoma de México</a> &nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-unam.png" width="25"/>
+
 
 ***
 
