@@ -40,16 +40,16 @@ Software Engineer at <a href="https://www.softtek.com/">Softtek</a>&nbsp;<img sr
 
 <p>
 <h4>Academic background</h4>
-Data Science and Business Analytics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a> &nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-uta.png" width="25"/>
-Master of Administration at <a href="https://lasalle.mx/">Universidad La Salle</a>&nbsp; <img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-ulsa.png" width="25"/>
-Computer Engineering at <a href="https://www.unam.mx">Universidad Nacional Autónoma de México</a> &nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-unam.png" width="25"/>
+- <img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-uta.png" width="25"/> Data Science and Business Analytics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
+- Master of Administration at <a href="https://lasalle.mx/">Universidad La Salle</a>&nbsp; <img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-ulsa.png" width="25"/>
+- Computer Engineering at <a href="https://www.unam.mx">Universidad Nacional Autónoma de México</a> &nbsp;<img src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-unam.png" width="25"/>
 
 
 ***
 
 
 
-<h3 align="left">Connect with me:</h3>  
+#### Connect with me:
 <p align="left">  
 <a href="https://linkedin.com/in/ingrobertorivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-linkedin.png" alt="ingrobertorivas" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/ingrobertorivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/ingrobertorivas/ingrobertorivas/main/images/icon-hackerrank.png" alt="ingrobertorivas" height="30" width="40" /></a>  
